@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cellphone-Price-Range-Prediction
 Machine Learning project to predict mobile phone price ranges based on specifications.
 =======
